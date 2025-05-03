@@ -7,7 +7,7 @@ export default function Home() {
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <div className="flex flex-col justify-between  w-[75vw] gap-4 sm:flex-row">
           <div className="w-[55%] flex flex-col gap-5 items-center justify-center sm:items-start">
-            <h1 className="text-4xl font-bold text-center sm:text-left font-[family-name:var(--font-geist-mono)]">Hi, I`&apos;`m Venkatesh</h1>
+            <h1 className="text-4xl font-bold text-center sm:text-left font-[family-name:var(--font-geist-mono)]">Hi, I&apos;m Venkatesh</h1>
             <p className="text-md text-center sm:text-left font-[family-name:var(--font-geist-mono)]">a software engineer and science enthusiast. I focus on creating practical, efficient software solutions 
             that solve real-life problems. Driven by curiosity and a love for technology, I aim to build tools that 
             are both thoughtful and impactful.</p>
