@@ -21,6 +21,21 @@ export default function AboutMe() {
                     priority
                 />
             </div>
+
+            
+            </div>
+            <div className='w-[55%] flex flex-col gap-5 items-center justify-center sm:items-start'>
+                <h1 className='text-4xl'>Education</h1>
+                <p className='text-md'>I graduated from <span className="font-bold">Indian Institute of Space Science and Technology</span>, Thiruvananthapuram with a Bachelor&apos;s Degree in
+                <span className="font-bold"> Electronics and Communications Engineering (Avionics)</span></p>
+                <Image
+                    className=""
+                    src="/iist.png"
+                    alt="IIST Logo"
+                    width={350}
+                    height={350}
+                    priority
+                />
             </div>
         </main>
         </div>
