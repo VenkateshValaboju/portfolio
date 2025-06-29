@@ -1,4 +1,4 @@
-import NavbarButton from "../navbar_button/page";
+import NavbarButton from "../navbar_button/navbar_button";
 
 export default function Navbar() {
   const buttons = [
